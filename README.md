@@ -6,3 +6,4 @@ This repository contains projects from the Frontend Development roadmap from Roa
 - **Project URL:** [Single Page CV - Frontend Roadmap Project](https://roadmap.sh/projects/single-page-cv)
 
 ## 2. Basic HTML Website
+- **Project URL:** [Basic HTML Website - Frontend Roadmap Project](https://roadmap.sh/projects/basic-html-website)
