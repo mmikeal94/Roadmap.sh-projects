@@ -3,19 +3,29 @@
 
 <!-- Head -->
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Basic HTML website</title>
-        <meta name="description" content="a basic HTML website for the frontend dev roadmap project">
+        <meta charset="utf-8">
+
+            <!-- SEO Tags -->
+        <meta name="description" content="a basic HTML website for the frontend dev roadmap project.">
+        <meta name="keywords" content="Matthew Mikeal, website, project, HTML, beginner">
+        <meta name="author" content="Matthew Mikeal">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
+
+            <!-- OG Tags -->
+        <meta property="og:title" content="Basic HTML website">
+        <meta property="og:description" content="a basic HTML website for the frontend dev roadmap project.">
+        <meta property="og:type" content="HTML website">
+
+            <!-- Favicon -->
+        <link rel="icon" type="images" href="TBD"> <!-- TODO -->
     </head>
-    
+
     <body>
-        <!--[if lt IE 7]>
-            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
+        <header>
+
+        </header>
         
-        <script src="" async defer></script>
+
     </body>
-</html>
+</html> 
