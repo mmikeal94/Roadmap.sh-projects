@@ -3,7 +3,7 @@
 
 <!-- Head -->
     <head>
-        <title>Basic HTML website</title>
+        <title>Main Page - Basic HTML website</title>
         <meta charset="utf-8">
 
             <!-- SEO Tags -->
@@ -13,19 +13,52 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
             <!-- OG Tags -->
-        <meta property="og:title" content="Basic HTML website">
+        <meta property="og:title" content="Main Page - Basic HTML website">
         <meta property="og:description" content="a basic HTML website for the frontend dev roadmap project.">
         <meta property="og:type" content="HTML website">
 
             <!-- Favicon -->
-        <link rel="icon" type="images" href="TBD"> <!-- TODO -->
+        <link rel="icon" type="images" href="TBD"> <!-- TODO - Create Favicon-->
     </head>
 
     <body>
+            <!-- Header -->
         <header>
-
+            <div class="logo">
+                <!-- TODO - Create Logo for website-->
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="https://github.com/mmikeal94/Roadmap.sh-projects/blob/main/Frontend%20Projects/02%20-%20basic%20HTML%20website/Main%20page%20-%20Basic%20HTML%20Website">Home</a></li>
+                    <li><a href=""></a>Projects</li>
+                    <li><a href=""></a>Articles</li>
+                    <li><a href=""></a>Contact</li>
+                </ul>
+            </nav>
         </header>
-        
+        <main>
+               <!-- Intro -->
+            <section id="Intro">
+                <H1>Frontend Developer</H1>
+                <p>This website is a first step to learning how to make websites from scrath</p>
+            </section>
 
+                 <!-- Projects -->
+            <section id="Projects">
+                <h2>Projects</h2>
+                <p>A short list of personal projects used to advance my skills as a developer</p>
+                <ul>
+                    <li>HTML Resume</li>
+                    <li>Basic HTML Website</li>
+                    <li>Online Portfolio</li>
+                    <li>SQL database of Vinyl collection</li>
+                    <li>Home network NAS</li>
+                </ul>
+            </section>
+            
+            <!-- Work Experience -->
+
+    
+       </main> 
     </body>
 </html> 

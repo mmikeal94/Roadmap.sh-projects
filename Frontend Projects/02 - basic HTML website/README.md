@@ -6,5 +6,9 @@ Goal of this project is to teach you how to structure a website using HTML i.e. 
 ### Submission checklist
 1. Structure a website using HTML in a semantic way.
 2. Include multiple pages with links to navigate between them. 
+    - Homepage
+    - Projects
+    - Articles
+    - Contact
 3. Structure in a way that allows you to add styles later on.
 4. Add SEO meta tags to the website.
