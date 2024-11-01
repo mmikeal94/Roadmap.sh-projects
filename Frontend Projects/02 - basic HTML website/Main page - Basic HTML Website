@@ -24,7 +24,7 @@
     <meta property="og:type" content="HTML website">
 
     <!-- Favicon -->
-    <link rel="icon" type="images" href="assets/favicon.ico"> <!-- TODO - Create Favicon -->
+    <link rel="icon" type="images" href="/Frontend Projects/02 - basic HTML website/assets/favicon.ico"> <!-- TODO - Create Favicon -->
 </head>
 
 <body style="background-color:rgb(136, 136, 136)">
