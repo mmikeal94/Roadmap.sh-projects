@@ -30,8 +30,9 @@
 
     <!-- Header -->
     <header>
-        <div class="logo" type="image" href="/Frontend Projects/02 - basic HTML website/assets/android-chrome-192x192.png">
-            <!-- TODO - Create Logo for website -->
+        <div class="logo">
+            <img width="192" src="/Frontend Projects/02 - basic HTML website/assets/android-chrome-192x192.png""
+        </div>
         </div>
         <nav>
             <ul> <!-- TODO - Fix links between pages -->
