@@ -2,7 +2,6 @@
 <html lang="en">
 
 <!-- TODO List
- Favicon
  Logo
  Link between pages
  -->
@@ -24,14 +23,14 @@
     <meta property="og:type" content="HTML website">
 
     <!-- Favicon -->
-    <link rel="icon" type="images" href="/Frontend Projects/02 - basic HTML website/assets/favicon.ico"> <!-- TODO - Create Favicon -->
+    <link rel="icon" type="ico" href="/Frontend Projects/02 - basic HTML website/assets/favicon.ico">
 </head>
 
 <body style="background-color:rgb(136, 136, 136)">
 
     <!-- Header -->
     <header>
-        <div class="logo">
+        <div class="logo" type="image" href="">
             <!-- TODO - Create Logo for website -->
         </div>
         <nav>
