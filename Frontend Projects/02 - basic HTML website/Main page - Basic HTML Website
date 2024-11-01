@@ -29,10 +29,10 @@
             </div>
             <nav>
                 <ul>
-                    <li><a href="https://github.com/mmikeal94/Roadmap.sh-projects/blob/main/Frontend%20Projects/02%20-%20basic%20HTML%20website/Main%20page%20-%20Basic%20HTML%20Website">Home</a></li>
-                    <li><a href=""></a>Projects</li>
-                    <li><a href=""></a>Articles</li>
-                    <li><a href=""></a>Contact</li>
+                    <li><a href="Main Page - Basic HTML website.HTML">Home</a></li>
+                    <li><a href="projects.HTML">Projects</a></li>
+                    <li><a href="articles.HTML">Articles</a></li>
+                    <li><a href="contact.HTML">Contact</a></li>
                 </ul>
             </nav>
         </header>
@@ -42,6 +42,7 @@
                 <H1>Frontend Developer</H1>
                 <p>This website is a first step to learning how to make websites from scrath</p>
             </section>
+            <hr color="black">
 
                  <!-- Projects -->
             <section id="Projects">
@@ -55,7 +56,7 @@
                     <li>Home network NAS</li>
                 </ul>
             </section>
-            
+
             <!-- Work Experience -->
 
     
