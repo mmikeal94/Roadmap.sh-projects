@@ -18,17 +18,18 @@
         <meta property="og:type" content="HTML website">
 
             <!-- Favicon -->
-        <link rel="icon" type="images" href="TBD"> <!-- TODO - Create Favicon-->
+        <link rel="icon" type="images" href="TBD"> <!-- TODO - Create Favicon -->
     </head>
 
-    <body>
+    <body style="background-color:rgb(165,178,192)">
+
             <!-- Header -->
         <header>
             <div class="logo">
-                <!-- TODO - Create Logo for website-->
+                <!-- TODO - Create Logo for website -->
             </div>
             <nav>
-                <ul>
+                <ul> <!-- TODO - Fix links between pages -->
                     <li><a href="Main Page - Basic HTML website.HTML">Home</a></li>
                     <li><a href="projects.HTML">Projects</a></li>
                     <li><a href="articles.HTML">Articles</a></li>
@@ -41,13 +42,19 @@
             <section id="Intro">
                 <H1>Frontend Developer</H1>
                 <p>This website is a first step to learning how to make websites from scrath</p>
+                <hr color="black">
             </section>
-            <hr color="black">
 
-                 <!-- Projects -->
+                <!-- Experiance Table -->
+            <section id="Experiance table">
+                <h2>Experiance</h2>
+                <p>A short list of personal projects and work Experiance used to advance my skills as a developer</p>
+                <table width="100%">
+                    
+                <!-- Projects -->
             <section id="Projects">
-                <h2>Projects</h2>
-                <p>A short list of personal projects used to advance my skills as a developer</p>
+                <h4>Projects</h4>
+                <p></p>
                 <ul>
                     <li>HTML Resume</li>
                     <li>Basic HTML Website</li>
@@ -57,7 +64,19 @@
                 </ul>
             </section>
 
-            <!-- Work Experience -->
+                <!-- Work Experience -->
+            <section id="Work Experiance">
+                <h4>Work Experiance</h4>
+                <h4>Whole foods Market</h4>
+                <p>Help Desk Technician <br>
+                <i><small>2022 - 2024</small></i></p>
+                <H4>Launderettes</H4>
+                <p>Paistry Cheff<br>
+                <i><small>2021 - 2022</small></i></p>
+            </section>
+
+            </table>
+          </section>
 
     
        </main> 
