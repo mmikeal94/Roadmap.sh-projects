@@ -30,7 +30,7 @@
 
     <!-- Header -->
     <header>
-        <div class="logo" type="image" href="">
+        <div class="logo" type="image" href="/Frontend Projects/02 - basic HTML website/assets/android-chrome-192x192.png">
             <!-- TODO - Create Logo for website -->
         </div>
         <nav>
