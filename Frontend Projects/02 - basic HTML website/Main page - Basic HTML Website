@@ -60,10 +60,10 @@
             <p>A short list of personal projects and work Experiance used to advance my skills as a developer</p>
             <table width="100%">
                 <tr>
-                    <td width="50%">
-                        <!-- Work Experience -->
-                        <section id="Work Experiance">
-                            <h2>Work Experiance</h2>
+                    <td width="33.3%">
+                        <!-- Professional -->
+                        <section id="Professional">
+                            <h2>Professional</h2>
                             <h4>Whole foods Market</h4>
                             <p>Help Desk Technician <br>
                                 <i><small>2022 - 2024</small></i>
@@ -74,7 +74,7 @@
                             </p>
                         </section>
                     </td>
-                    <td width="50%">
+                    <td width="33.3%">
                         <!-- Projects -->
                         <section id="Projects">
                             <h2>Projects</h2>
@@ -84,6 +84,19 @@
                                 <li>Online Portfolio</li>
                                 <li>SQL database of Vinyl collection</li>
                                 <li>Home network NAS</li>
+                            </ul>
+                        </section>
+                    </td>
+                    <td width="33.3%">
+                        <!-- Education -->
+                        <section id="Education">
+                            <h2>Education</h2>
+                            <ul>
+                                <li>CompTIA A+ certification</li>
+                                <li>CompTIA Network+ certification</li>
+                                <li>CompTIA Security+ certification</li>
+                                <li>Google IT Support Certificates</li>
+                                <li>Roadmap.sh Frontend roadmap</li>
                             </ul>
                         </section>
                     </td>
@@ -97,26 +110,24 @@
         <section id="testimonials">
             <h2>Testimonials</h2>
             <blockquote>
-                <p>Hire this Man</p>
-                <footer>- John Doe </footer>
-                <span>jane Doe</span>
+                <q>I highly recommend Matthew to any organisation, as he is an incredible resource of knowledge and
+                    expertise.</q>
+                <p>- Miranda Keyes</p>
             </blockquote>
             <blockquote>
-                <p>Hire this Man</p>
-                <footer>- John Doe </footer>
-                <span>jane Doe</span>
+                <q>I strongly recommend Matthew for future roles, and I feel he would be an excellent addition to any
+                    organisation.</q>
+                <p>- Catherine Halsey</p>
             </blockquote>
             <blockquote>
-                <p>Hire this Man</p>
-                <footer>- John Doe </footer>
-                <span>jane Doe</span>
+                <q>For a brick, he flys pretty good!</q>
+                <p>- Avery Johnson</p>
             </blockquote>
-
-
         </section>
 
         <hr color="black">
     </main>
+
     <!-- Footer -->
     <section id="footer">
         <footer style="text-align: center;">
