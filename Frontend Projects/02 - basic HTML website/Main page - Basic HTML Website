@@ -31,7 +31,7 @@
     <!-- Header -->
     <header>
         <div class="logo">
-            <img width="192" src="../../assets/android-chrome-192x192.png" alt="Logo">
+            <img width="192" src="Frontend Projects/02 - basic HTML website/assets/android-chrome-192x192.png" alt="Logo">
         </div>
         <nav>
             <ul> <!-- TODO - Fix links between pages -->
