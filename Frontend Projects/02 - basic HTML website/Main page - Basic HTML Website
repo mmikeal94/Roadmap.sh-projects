@@ -26,11 +26,13 @@
 
     <!-- Header -->
     <header>
+        <!-- Logo -->
         <div class="logo">
             <img width="64"
                 src="https://github.com/mmikeal94/Roadmap.sh-projects/blob/main/Frontend%20Projects/02%20-%20basic%20HTML%20website/assets/android-chrome-192x192.png"
                 alt="Logo">
         </div>
+        <!-- Nav UI -->
         <nav>
             <ul> <!-- TODO - Fix links between pages -->
                 <li><a href="Main Page - Basic HTML website.HTML">Home</a></li>
@@ -39,15 +41,14 @@
                 <li><a href="contact.HTML">Contact</a></li>
             </ul>
         </nav>
-    </header>
-    <main>
         <!-- Intro -->
         <section id="Intro">
             <H1>Frontend Developer</H1>
             <p>This website is a first step to learning how to make websites from scrath</p>
             <hr color="black">
         </section>
-
+    </header>
+    <main>
         <!-- Experiance Table -->
         <section id="Experiance table">
             <h2>Experiance</h2>
