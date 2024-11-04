@@ -118,12 +118,11 @@
                 <p>- Avery Johnson</p>
             </blockquote>
         </section>
-
-        <hr color="black">
     </main>
 
     <!-- Footer -->
     <section id="footer">
+        <hr color="black">
         <footer style="text-align: center;">
             <h4>&copy; all rights reserved</h4>
         </footer>
