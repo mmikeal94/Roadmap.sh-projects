@@ -18,8 +18,7 @@
     <meta property="og:type" content="HTML website">
 
     <!-- Favicon -->
-    <link rel="icon" type="ico"
-        href="/Frontend Projects/02 - basic HTML website/assets/favicon.ico">
+    <link rel="icon" type="ico" href="/Frontend Projects/02 - basic HTML website/assets/favicon.ico">
 </head>
 
 <body style="background-color:rgb(136, 136, 136)">
@@ -28,17 +27,16 @@
     <header>
         <!-- Logo -->
         <div class="logo">
-            <img width="64"
-            src="/Frontend Projects/02 - basic HTML website/assets/android-chrome-192x192.png"
+            <img width="64" src="/Frontend Projects/02 - basic HTML website/assets/android-chrome-192x192.png"
                 alt="Logo">
         </div>
         <!-- Nav UI -->
         <nav>
             <ul>
-                <li><a href="Main Page - Basic HTML website.html">Home</a></li>
-                <li><a href="projects.html">Projects</a></li>
-                <li><a href="articles.html">Articles</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="Main page.html">Home</a></li>
+                <li><a href="Projects.html">Projects</a></li>
+                <li><a href="Articles.html">Articles</a></li>
+                <li><a href="Contacts.html">Contact</a></li>
             </ul>
         </nav>
         <!-- Intro -->
@@ -50,8 +48,22 @@
     </header>
 
     <main>
+        <!-- Contacts -->
+        <section class="contact">
+            <h2>Contact Me</h2>
+            <Form>
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required><br>
 
-        <!-- TODO - Contact form here. -->
+                <label for="email">Email:</label>
+                <input type="text" id="email" name="email" required><br>
+
+                <label for="message">Message</label>
+                <textarea id="message" name="message" rows="5" required></textarea><br>
+
+                <button type="submit">send Message</button>
+            </Form>
+        </section>
 
     </main>
     <!-- Footer -->
