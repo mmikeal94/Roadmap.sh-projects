@@ -12,3 +12,5 @@ Goal of this project is to teach you how to structure a website using HTML i.e. 
     - Contact
 3. Structure in a way that allows you to add styles later on.
 4. Add SEO meta tags to the website.
+
+For more information visit [project roadmap.sh](https://roadmap.sh/projects/basic-html-website)
